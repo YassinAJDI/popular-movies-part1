@@ -1,3 +1,4 @@
+<p>Stage 2 available here: https://github.com/YassinAJDI/PopularMovies</p>
 <h1 align="center">Popular Movies Stage 1</h1>
 <p align="center">
 <a href="./LICENSE">
